@@ -1,0 +1,48 @@
+.main{
+    width: 80%;
+    margin: 140px auto;
+    background-color: #def0f2;
+}
+
+body{
+    background-color: #b9c7dc;
+}
+
+
+h1{
+    text-shadow: 2px 2px 4px;
+    text-align: center;
+    font-size: 3em;
+}
+
+.content{
+    width: 58%;
+    margin: 50px auto; 
+    background-color:#76b4bf;
+    border-radius: 10px 10px 10px 10px;
+}
+
+ .todocontent{
+    width: 50%;
+    margin: 0 auto;
+} 
+
+.borderRadius{
+    border-radius: 5px 5px 5px 5px;
+}
+
+.floatRight{
+    float: right;
+}
+
+.liDelEdit{
+    margin-left: 5px;
+    background-color: #76b4bf;
+    color: #ffffff;
+}
+
+.listcontent{
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 10px 10px 10px 10px;
+}
